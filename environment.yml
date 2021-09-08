@@ -1,0 +1,7 @@
+name: dh-template
+dependencies:
+  - python==3.8.2
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt
